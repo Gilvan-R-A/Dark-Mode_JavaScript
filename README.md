@@ -1,4 +1,13 @@
 # Dark-Mode_JavaScript
 
-Projeto criado em HTML, CSS e JavaScript com a tutoria da Sthephany Nusch da Digital Innovation One.  
-Ele consiste de uma página com um tema claro e um botão que muda para o tema escuro através do JavaScript.
+Projeto criado com a tutoria da Sthephany Nusch da Digital Innovation One.  
+Ele consiste de uma página com recursos para mudança do tema.   
+Com a combinação de **HTML**, **JavaScript** e **CSS** o usuário pode optar por um dos 2 temas disponíveis:   
+
+## Tema Claro
+
+![Diagrama da classe Tarefa](assets/img/modoClaro.jpg)  
+
+## Tema Escuro
+
+![Diagrama da classe Tarefa](assets/img/modoEscuro.jpg)

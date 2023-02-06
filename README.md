@@ -1,4 +1,6 @@
-# Dark-Mode_JavaScript
+<h1 align="center">
+   Dark-Mode_JavaScript
+</h1>
 
 Projeto criado com a tutoria da Sthephany Nusch da Digital Innovation One.  
 Ele consiste de uma página com recursos para mudança do tema.   
